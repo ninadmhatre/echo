@@ -1,0 +1,26 @@
+title: Stackbit Fresh Theme
+baseURL: /
+params:
+  layout_style: overflow
+  palette: blue
+  header:
+    title: Ninad Mhatre
+    tagline: Header Tagline
+    profile_img: >-
+      https://res.cloudinary.com/practicaldev/image/fetch/s--Kxnzz52k--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/330206/878cf7ae-6e74-478c-841a-6e8d02691e31.jpeg
+    bg: dark
+    has_nav: true
+    has_social: true
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+        new_window: true
+      - text: Generated from DEV
+        url: 'https://dev.to/connecting-with-stackbit'
+        new_window: true
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
