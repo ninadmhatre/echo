@@ -10,10 +10,10 @@ sections:
   component: content_block.html
   type: contentblock
   title: About
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: |-
+    I am Ninad Mhatre, I am from Mumbai, India. I am currently working as Python QA Automation developer in Amsterdam, the Netherlands with FlowTrades. I am a software developer by profession since 2006 & traveller since I started earning.
+
+    I moved into QA space from Development in 2015, reason for this was to understand the business. I worked on Perl, C# & little bit with C++ before moving to Python.
   actions:
   - label: Contact Me
     url: "/contact"
