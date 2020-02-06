@@ -4,8 +4,8 @@ sections:
 - section_id: hero
   component: hero_block.html
   type: heroblock
-  content: Python developer with 7+ years of experience currently working in QA Automation
-    project in Amsterdam
+  content: 'Software Developer - exp. 13+ years / Python developer - exp. 7+ years
+    / &#x1f4cc; Amsterdam  '
 - section_id: about
   component: content_block.html
   type: contentblock
