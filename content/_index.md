@@ -4,7 +4,7 @@ sections:
 - section_id: hero
   component: hero_block.html
   type: heroblock
-  content: 'Software Developer - exp. 13+ years / Python developer - exp. 7+ years
+  content: 'Software Developer - exp. 13+ years / Python developer - exp. 6+ years
     / &#x1f4cc; Amsterdam  '
 - section_id: about
   component: content_block.html
